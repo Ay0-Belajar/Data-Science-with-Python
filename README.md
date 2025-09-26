@@ -20,6 +20,7 @@ Python atau R merupakan bahasa pemrograman yang sangat umum di bidang Data Scien
 
 ## Data Scientist Toolbox
 Bahasa pemrograman: Python/R
+
 Coding environment:
 - Jupyter Notebook
 - Jupyter Lab
