@@ -24,12 +24,15 @@ Coding environment:
 - Jupyter Notebook
 - Jupyter Lab
 - VS Code
+
 Library
 Visualisasi:
 - Matplotlib
+
 Dataframe processing :
 - Numpy
 - Pandas
+
 Machine Learning:
 - Machine Learning Library (MLlib)
 
