@@ -18,6 +18,20 @@ Mudahnya, Data Science merupakan seperangkat metode untuk mengambil ribuan data 
 
 Python atau R merupakan bahasa pemrograman yang sangat umum di bidang Data Science. Keduanya dapat membantu kita dalam hal pengolahan dan eksplorasi data. Dengan menggunakan bahasa pemrograman, kita bisa memanfaatkan library yang tersedia untuk menunjang pekerjaan kita. Dan dukungan library untuk kedua bahasa tersebut sudah cukup banyak, sehingga kita akan bisa lebih fleksibel dan efisien dalam melakukan pekerjaan.
 
+## Data Scientist Toolbox
+Bahasa pemrograman: Python/R
+Coding environment:
+- Jupyter Notebook
+- Jupyter Lab
+- VS Code
+Library
+Visualisasi:
+- Matplotlib
+Dataframe processing :
+- Numpy
+- Pandas
+Machine Learning:
+- Machine Learning Library (MLlib)
 
 
 
