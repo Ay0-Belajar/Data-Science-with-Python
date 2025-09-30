@@ -26,16 +26,29 @@ Coding environment:
 - Jupyter Lab
 - VS Code
 
+Struktur Data 
+- lists,tuples,sets,dictonaries
+- Operasi Struktur Data
+- Numpy
+- Operasi Array
+- Fungsi Math dan Statistik
+
 Library
 Visualisasi:
+- seaborn
 - Matplotlib
+- plotly
 
 Dataframe processing :
-- Numpy
 - Pandas
+- PySpark
+- Web Scraping dan Eksplorasi Data (EDA)
 
 Machine Learning:
 - Machine Learning Library (MLlib)
+- Scikit-learn
+- Algoritma Supervised Learning
+- Algoritma Unsupervised Learning
 
 
 
